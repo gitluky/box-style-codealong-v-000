@@ -136,7 +136,9 @@ img, video, audio, iframe, table, form {
 }
 
 /*////////// HEADER //////////*/
-
+.header-gap{
+  margin: 0 0 30px;
+}
 
 
 /*////////// NAVBAR //////////*/
